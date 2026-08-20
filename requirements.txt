@@ -1,0 +1,16 @@
+# Core (required)
+numpy>=1.24
+pydantic>=2.0
+
+# Local open-model stack (recommended for real answers/embeddings)
+sentence-transformers>=2.2   # local embedding model; falls back to hashing if absent
+
+# MCP server (only needed to run mcp_server/server.py)
+mcp>=1.0
+
+# Dev / testing
+pytest>=7.0
+
+# NOTE: the LLM is served by Ollama (https://ollama.com), an external binary,
+# not a pip package. Install it separately and `ollama pull llama3.1:8b`.
+# Without Ollama the app runs in an offline deterministic "mock" backend.

@@ -1,0 +1,34 @@
+DISCHARGE SUMMARY
+Facility: Lakeshore Medical Center
+Document ID: DS-003
+
+Patient Name: Sam Fictional (SYNTHETIC - not a real person)
+Patient ID: PT-1003
+Age: 71
+Sex: F
+Admission Date: 2026-01-20
+Discharge Date: 2026-01-28
+Attending Physician: Dr. M. Duval
+
+Chief Complaint: Fall at home with left hip pain.
+
+History of Present Illness: 71-year-old female with osteoporosis presented after a
+mechanical fall, unable to bear weight on the left leg. X-ray confirmed a displaced
+left femoral neck fracture.
+
+Principal Diagnosis: Left femoral neck fracture.
+Secondary Diagnoses: Osteoporosis; hypothyroidism.
+
+Procedures: Left hip hemiarthroplasty on 2026-01-21.
+
+Medications on Discharge:
+- Oxycodone 5 mg PO every 6 hours as needed for pain
+- Levothyroxine 75 mcg PO daily
+- Alendronate 70 mg PO weekly
+- Enoxaparin 40 mg subcutaneous daily for 14 days
+
+Allergies: Sulfa drugs (hives).
+
+Follow-up: Orthopedics in 2 weeks. Physical therapy 3 times weekly.
+
+Disposition: Discharged to skilled nursing facility for rehabilitation.

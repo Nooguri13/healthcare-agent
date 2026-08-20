@@ -1,0 +1,33 @@
+DISCHARGE SUMMARY
+Facility: Lakeshore Medical Center
+Document ID: DS-004
+
+Patient Name: Casey Example (SYNTHETIC - not a real person)
+Patient ID: PT-1004
+Age: 47
+Sex: M
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-06
+Attending Physician: Dr. P. Nwosu
+
+Chief Complaint: Severe headache and elevated blood pressure.
+
+History of Present Illness: 47-year-old male presented with a severe occipital
+headache and a blood pressure of 210/120 mmHg. No focal neurologic deficits. Head
+CT was negative for hemorrhage.
+
+Principal Diagnosis: Hypertensive urgency.
+Secondary Diagnoses: Obesity; obstructive sleep apnea.
+
+Procedures: None.
+
+Medications on Discharge:
+- Amlodipine 10 mg PO daily
+- Hydrochlorothiazide 25 mg PO daily
+- Losartan 50 mg PO daily
+
+Allergies: No known drug allergies.
+
+Follow-up: Primary care in 3 days for blood pressure recheck.
+
+Disposition: Discharged home in stable condition with a home blood pressure monitor.

@@ -1,0 +1,34 @@
+DISCHARGE SUMMARY
+Facility: Riverbend General Hospital
+Document ID: DS-001
+
+Patient Name: Jordan Sample (SYNTHETIC - not a real person)
+Patient ID: PT-1001
+Age: 64
+Sex: M
+Admission Date: 2026-03-02
+Discharge Date: 2026-03-07
+Attending Physician: Dr. A. Okafor
+
+Chief Complaint: Shortness of breath and chest tightness on exertion.
+
+History of Present Illness: 64-year-old male with a history of hypertension and
+type 2 diabetes mellitus presented to the emergency department with a 3-day history
+of progressive dyspnea on exertion and intermittent substernal chest tightness.
+
+Principal Diagnosis: Acute decompensated heart failure with reduced ejection fraction.
+Secondary Diagnoses: Type 2 diabetes mellitus; essential hypertension.
+
+Procedures: Transthoracic echocardiogram (ejection fraction 35%).
+
+Medications on Discharge:
+- Furosemide 40 mg PO daily
+- Lisinopril 10 mg PO daily
+- Metformin 1000 mg PO twice daily
+- Carvedilol 6.25 mg PO twice daily
+
+Allergies: Penicillin (rash).
+
+Follow-up: Cardiology clinic in 1 week. Repeat basic metabolic panel in 3 days.
+
+Disposition: Discharged home in stable condition. Ambulating without assistance.

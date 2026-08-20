@@ -1,0 +1,71 @@
+{
+  "description": "Gold labels for structured extraction. Only fields we assert on are listed per document.",
+  "cases": [
+    {
+      "doc_id": "discharge_001",
+      "expected": {
+        "patient_id": "PT-1001",
+        "age": 64,
+        "sex": "M",
+        "principal_diagnosis": "Acute decompensated heart failure with reduced ejection fraction",
+        "admission_date": "2026-03-02",
+        "discharge_date": "2026-03-07"
+      }
+    },
+    {
+      "doc_id": "discharge_002",
+      "expected": {
+        "patient_id": "PT-1002",
+        "age": 29,
+        "sex": "F",
+        "principal_diagnosis": "Acute appendicitis",
+        "admission_date": "2026-05-11",
+        "discharge_date": "2026-05-13"
+      }
+    },
+    {
+      "doc_id": "discharge_003",
+      "expected": {
+        "patient_id": "PT-1003",
+        "age": 71,
+        "sex": "F",
+        "principal_diagnosis": "Left femoral neck fracture",
+        "admission_date": "2026-01-20",
+        "discharge_date": "2026-01-28"
+      }
+    },
+    {
+      "doc_id": "discharge_004",
+      "expected": {
+        "patient_id": "PT-1004",
+        "age": 47,
+        "sex": "M",
+        "principal_diagnosis": "Hypertensive urgency",
+        "admission_date": "2026-06-04",
+        "discharge_date": "2026-06-06"
+      }
+    },
+    {
+      "doc_id": "discharge_005",
+      "expected": {
+        "patient_id": "PT-1005",
+        "age": 8,
+        "sex": "F",
+        "principal_diagnosis": "Acute asthma exacerbation",
+        "admission_date": "2026-02-14",
+        "discharge_date": "2026-02-16"
+      }
+    },
+    {
+      "doc_id": "discharge_006",
+      "expected": {
+        "patient_id": "PT-1006",
+        "age": 55,
+        "sex": "M",
+        "principal_diagnosis": "Community-acquired pneumonia with sepsis",
+        "admission_date": "2026-04-18",
+        "discharge_date": "2026-04-25"
+      }
+    }
+  ]
+}

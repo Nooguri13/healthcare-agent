@@ -1,0 +1,53 @@
+{
+  "description": "Labeled QA set for retrieval + grounded-answer evaluation. expected_doc_id is the document that should be retrieved; answer_contains lists strings a correct answer should include.",
+  "cases": [
+    {
+      "id": "qa1",
+      "question": "What was the principal diagnosis for patient PT-1001?",
+      "expected_doc_id": "discharge_001",
+      "answer_contains": ["heart failure"]
+    },
+    {
+      "id": "qa2",
+      "question": "Which procedure was performed for the appendicitis patient?",
+      "expected_doc_id": "discharge_002",
+      "answer_contains": ["appendectomy"]
+    },
+    {
+      "id": "qa3",
+      "question": "What medication was prescribed for the hypothyroidism patient with a hip fracture?",
+      "expected_doc_id": "discharge_003",
+      "answer_contains": ["Levothyroxine"]
+    },
+    {
+      "id": "qa4",
+      "question": "What blood pressure was recorded for the hypertensive urgency patient?",
+      "expected_doc_id": "discharge_004",
+      "answer_contains": ["210/120"]
+    },
+    {
+      "id": "qa5",
+      "question": "What was the oxygen saturation on arrival for the pediatric asthma patient?",
+      "expected_doc_id": "discharge_005",
+      "answer_contains": ["91"]
+    },
+    {
+      "id": "qa6",
+      "question": "What organism was found in the blood cultures of the pneumonia patient?",
+      "expected_doc_id": "discharge_006",
+      "answer_contains": ["Streptococcus pneumoniae"]
+    },
+    {
+      "id": "qa7",
+      "question": "Which patient was discharged to a skilled nursing facility?",
+      "expected_doc_id": "discharge_003",
+      "answer_contains": ["skilled nursing"]
+    },
+    {
+      "id": "qa8",
+      "question": "What allergy does the heart failure patient have?",
+      "expected_doc_id": "discharge_001",
+      "answer_contains": ["Penicillin"]
+    }
+  ]
+}

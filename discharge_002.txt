@@ -1,0 +1,32 @@
+DISCHARGE SUMMARY
+Facility: Riverbend General Hospital
+Document ID: DS-002
+
+Patient Name: Alex Placeholder (SYNTHETIC - not a real person)
+Patient ID: PT-1002
+Age: 29
+Sex: F
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-13
+Attending Physician: Dr. R. Chen
+
+Chief Complaint: Right lower quadrant abdominal pain.
+
+History of Present Illness: 29-year-old female presented with 18 hours of worsening
+right lower quadrant pain, nausea, and low-grade fever. CT abdomen showed acute
+appendicitis without perforation.
+
+Principal Diagnosis: Acute appendicitis.
+Secondary Diagnoses: None.
+
+Procedures: Laparoscopic appendectomy on 2026-05-11.
+
+Medications on Discharge:
+- Acetaminophen 500 mg PO every 6 hours as needed for pain
+- Ibuprofen 400 mg PO every 8 hours as needed
+
+Allergies: No known drug allergies.
+
+Follow-up: Surgery clinic in 2 weeks for wound check.
+
+Disposition: Discharged home in good condition, tolerating regular diet.

@@ -1,0 +1,33 @@
+DISCHARGE SUMMARY
+Facility: Riverbend General Hospital
+Document ID: DS-005
+
+Patient Name: Taylor Testcase (SYNTHETIC - not a real person)
+Patient ID: PT-1005
+Age: 8
+Sex: F
+Admission Date: 2026-02-14
+Discharge Date: 2026-02-16
+Attending Physician: Dr. L. Ferreira
+
+Chief Complaint: Wheezing and difficulty breathing.
+
+History of Present Illness: 8-year-old female with a history of asthma presented with
+an acute asthma exacerbation following an upper respiratory infection. Oxygen
+saturation was 91% on room air on arrival.
+
+Principal Diagnosis: Acute asthma exacerbation.
+Secondary Diagnoses: Allergic rhinitis.
+
+Procedures: Nebulizer therapy; chest X-ray (no infiltrate).
+
+Medications on Discharge:
+- Albuterol inhaler 2 puffs every 4 hours as needed
+- Prednisolone 20 mg PO daily for 3 days
+- Fluticasone inhaler 1 puff twice daily
+
+Allergies: No known drug allergies.
+
+Follow-up: Pediatrics in 1 week. Asthma action plan reviewed with guardian.
+
+Disposition: Discharged home, oxygen saturation 97% on room air at discharge.

@@ -1,0 +1,33 @@
+DISCHARGE SUMMARY
+Facility: Lakeshore Medical Center
+Document ID: DS-006
+
+Patient Name: Morgan Dummy (SYNTHETIC - not a real person)
+Patient ID: PT-1006
+Age: 55
+Sex: M
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-25
+Attending Physician: Dr. S. Bianchi
+
+Chief Complaint: Fever, cough, and confusion.
+
+History of Present Illness: 55-year-old male presented with 4 days of productive
+cough, fever to 39.1 C, and new-onset confusion. Chest X-ray showed a right lower
+lobe consolidation. Blood cultures were positive for Streptococcus pneumoniae.
+
+Principal Diagnosis: Community-acquired pneumonia with sepsis.
+Secondary Diagnoses: Acute kidney injury (resolved); chronic obstructive pulmonary disease.
+
+Procedures: None.
+
+Medications on Discharge:
+- Amoxicillin-clavulanate 875 mg PO twice daily for 7 days
+- Azithromycin 250 mg PO daily for 4 days
+- Tiotropium inhaler 1 puff daily
+
+Allergies: Codeine (nausea).
+
+Follow-up: Primary care in 1 week. Repeat chest X-ray in 6 weeks.
+
+Disposition: Discharged home in stable condition, afebrile for 48 hours.

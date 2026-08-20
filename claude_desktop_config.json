@@ -1,0 +1,14 @@
+{
+  "_comment": "Example MCP client config (e.g. Claude Desktop). Point 'command' at your python and set 'cwd' to this repo. Then the agent's tools appear in the client.",
+  "mcpServers": {
+    "healthcare-agent": {
+      "command": "python",
+      "args": ["-m", "mcp_server.server"],
+      "cwd": "/absolute/path/to/healthcare-agent",
+      "env": {
+        "HCA_LLM_BACKEND": "auto",
+        "HCA_LLM_MODEL": "llama3.1:8b"
+      }
+    }
+  }
+}
